@@ -1,0 +1,13 @@
+C:\Users\CCBB30\source\repos\AppPractica\AppPractica\bin\Debug\AppPractica.exe.config
+C:\Users\CCBB30\source\repos\AppPractica\AppPractica\bin\Debug\AppPractica.exe
+C:\Users\CCBB30\source\repos\AppPractica\AppPractica\bin\Debug\AppPractica.pdb
+C:\Users\CCBB30\source\repos\AppPractica\AppPractica\obj\Debug\AppPractica.csproj.AssemblyReference.cache
+C:\Users\CCBB30\source\repos\AppPractica\AppPractica\obj\Debug\AppPractica.Form1.resources
+C:\Users\CCBB30\source\repos\AppPractica\AppPractica\obj\Debug\AppPractica.Properties.Resources.resources
+C:\Users\CCBB30\source\repos\AppPractica\AppPractica\obj\Debug\AppPractica.csproj.GenerateResource.cache
+C:\Users\CCBB30\source\repos\AppPractica\AppPractica\obj\Debug\AppPractica.csproj.CoreCompileInputs.cache
+C:\Users\CCBB30\source\repos\AppPractica\AppPractica\obj\Debug\AppPractica.exe
+C:\Users\CCBB30\source\repos\AppPractica\AppPractica\obj\Debug\AppPractica.pdb
+C:\Users\CCBB30\source\repos\AppPractica\AppPractica\obj\Debug\AppPractica.Views.ClientesForm.resources
+C:\Users\CCBB30\source\repos\AppPractica\AppPractica\obj\Debug\AppPractica.Views.PnlCliente.resources
+C:\Users\CCBB30\source\repos\AppPractica\AppPractica\obj\Debug\AppPractica.Views.PnlAdClientes.resources
